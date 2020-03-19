@@ -13,12 +13,6 @@ One to two sentence description.
 - [ ] Breaking change
 - [ ] Documentation update
 
-## Checklist
-
-- [ ] Resolved any merge conflicts
-- [ ] Updated documentation
-- [ ] Added and passed unit/integration tests
-
 ## Referenced Issue(s)
 
 - [Issue Number](Link)
@@ -27,3 +21,9 @@ One to two sentence description.
 ## Screenshots/Screen Recordings
 
 Please attach screenshots or screen recordings if you made a UI change.
+
+## Suggested Reviewers
+
+- Dev Mentor
+- Other Developer 1
+- Other Developer 2
