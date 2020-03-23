@@ -8,5 +8,5 @@ One to two sentence description. Add current and expected behavior if the issue 
 - [ ] Bug fix
 - [ ] Documentation update
 - [ ] User research/testing
-- [ ] Mockup
+- [ ] Wireframe/mockup
 - [ ] Other
