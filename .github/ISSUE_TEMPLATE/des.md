@@ -7,4 +7,5 @@ One to two sentence description.
 - [ ] User research/testing
 - [ ] Wireframing
 - [ ] Greyscales
-- [ ] Hi-Fi Mockup
+- [ ] Hi-fi mockup
+- [ ] Other
